@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="16" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-31T19:55:29 IST" name="Suite" finished-at="2025-05-31T19:58:10 IST" duration-ms="161019">
+    <groups>
+    </groups>
+    <test started-at="2025-05-31T19:55:29 IST" name="RegisterTest" finished-at="2025-05-31T19:58:10 IST" duration-ms="161019">
+      <class name="TestCases.TS002_Validate_Login_Functionality">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:03 IST" name="setup" finished-at="2025-05-31T19:57:07 IST" duration-ms="4504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC001_Verify_LoginWithValidCredientials()[pri:1, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:07 IST" name="TC001_Verify_LoginWithValidCredientials" finished-at="2025-05-31T19:57:10 IST" duration-ms="2711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_Verify_LoginWithValidCredientials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:10 IST" name="teardown" finished-at="2025-05-31T19:57:10 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:10 IST" name="setup" finished-at="2025-05-31T19:57:15 IST" duration-ms="4457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC002_Verify_LoginWithInValidCredientials()[pri:2, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:15 IST" name="TC002_Verify_LoginWithInValidCredientials" finished-at="2025-05-31T19:57:17 IST" duration-ms="2579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002_Verify_LoginWithInValidCredientials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:17 IST" name="teardown" finished-at="2025-05-31T19:57:18 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:18 IST" name="setup" finished-at="2025-05-31T19:57:22 IST" duration-ms="4535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC003_Verify_LoginWithInValidEmailAndValidPassword()[pri:3, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:22 IST" name="TC003_Verify_LoginWithInValidEmailAndValidPassword" finished-at="2025-05-31T19:57:25 IST" duration-ms="2920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003_Verify_LoginWithInValidEmailAndValidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:25 IST" name="teardown" finished-at="2025-05-31T19:57:25 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:25 IST" name="setup" finished-at="2025-05-31T19:57:30 IST" duration-ms="4795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC004_Verify_LoginWithValidEmailAndInValidPassword()[pri:4, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:30 IST" name="TC004_Verify_LoginWithValidEmailAndInValidPassword" finished-at="2025-05-31T19:57:33 IST" duration-ms="2321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004_Verify_LoginWithValidEmailAndInValidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:33 IST" name="teardown" finished-at="2025-05-31T19:57:33 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:33 IST" name="setup" finished-at="2025-05-31T19:57:37 IST" duration-ms="4248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC005_Verify_LoginWithoutCredientials()[pri:5, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:37 IST" name="TC005_Verify_LoginWithoutCredientials" finished-at="2025-05-31T19:57:39 IST" duration-ms="1749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005_Verify_LoginWithoutCredientials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:39 IST" name="teardown" finished-at="2025-05-31T19:57:39 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:39 IST" name="setup" finished-at="2025-05-31T19:57:44 IST" duration-ms="4511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC006_Verify_ElementPlaceHolders()[pri:6, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:44 IST" name="TC006_Verify_ElementPlaceHolders" finished-at="2025-05-31T19:57:45 IST" duration-ms="881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006_Verify_ElementPlaceHolders -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:45 IST" name="teardown" finished-at="2025-05-31T19:57:45 IST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:45 IST" name="setup" finished-at="2025-05-31T19:57:50 IST" duration-ms="4634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC007_Verify_ForgottonPasswordLink()[pri:7, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:50 IST" name="TC007_Verify_ForgottonPasswordLink" finished-at="2025-05-31T19:57:51 IST" duration-ms="1385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC007_Verify_ForgottonPasswordLink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:51 IST" name="teardown" finished-at="2025-05-31T19:57:52 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:52 IST" name="setup" finished-at="2025-05-31T19:57:56 IST" duration-ms="4569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC008_Verify_BrowserBackActionAfterLogin()[pri:8, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:57:56 IST" name="TC008_Verify_BrowserBackActionAfterLogin" finished-at="2025-05-31T19:58:09 IST" duration-ms="12745" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.fail(Assert.java:116)
+at TestCases.TS002_Validate_Login_Functionality.TC008_Verify_BrowserBackActionAfterLogin(TS002_Validate_Login_Functionality.java:226)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008_Verify_BrowserBackActionAfterLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS002_Validate_Login_Functionality@4c5ae43b]" started-at="2025-05-31T19:58:09 IST" name="teardown" finished-at="2025-05-31T19:58:10 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.TS002_Validate_Login_Functionality -->
+      <class name="TestCases.TS001_Validate_Register_Functionality">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:30 IST" name="setup" finished-at="2025-05-31T19:55:37 IST" duration-ms="7057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC001_Verify_RegisterWithAllFields()[pri:1, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:37 IST" name="TC001_Verify_RegisterWithAllFields" finished-at="2025-05-31T19:55:42 IST" duration-ms="5269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_Verify_RegisterWithAllFields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:42 IST" name="teardown" finished-at="2025-05-31T19:55:42 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:42 IST" name="setup" finished-at="2025-05-31T19:55:47 IST" duration-ms="4440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC003_Verify_RegisterWithMissingMandetoryField()[pri:3, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:47 IST" name="TC003_Verify_RegisterWithMissingMandetoryField" finished-at="2025-05-31T19:55:51 IST" duration-ms="3630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003_Verify_RegisterWithMissingMandetoryField -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:51 IST" name="teardown" finished-at="2025-05-31T19:55:51 IST" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:51 IST" name="setup" finished-at="2025-05-31T19:55:55 IST" duration-ms="4308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC004_Verify_AllWarningMessages()[pri:4, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:55 IST" name="TC004_Verify_AllWarningMessages" finished-at="2025-05-31T19:55:57 IST" duration-ms="1984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004_Verify_AllWarningMessages -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:57 IST" name="teardown" finished-at="2025-05-31T19:55:58 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:55:58 IST" name="setup" finished-at="2025-05-31T19:56:02 IST" duration-ms="4507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC005_Verify_ByProvidingInvalidEmail()[pri:5, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:02 IST" name="TC005_Verify_ByProvidingInvalidEmail" finished-at="2025-05-31T19:56:05 IST" duration-ms="2975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005_Verify_ByProvidingInvalidEmail -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:05 IST" name="teardown" finished-at="2025-05-31T19:56:06 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:06 IST" name="setup" finished-at="2025-05-31T19:56:10 IST" duration-ms="4619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC006_Verify_ByProvidingInvalidTelephone()[pri:6, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:10 IST" name="TC006_Verify_ByProvidingInvalidTelephone" finished-at="2025-05-31T19:56:14 IST" duration-ms="4019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006_Verify_ByProvidingInvalidTelephone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:14 IST" name="teardown" finished-at="2025-05-31T19:56:15 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:15 IST" name="setup" finished-at="2025-05-31T19:56:20 IST" duration-ms="5592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC007_Verify_ByProvidingAlphanumericTelephone()[pri:7, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:20 IST" name="TC007_Verify_ByProvidingAlphanumericTelephone" finished-at="2025-05-31T19:56:25 IST" duration-ms="4695" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Telephone Number Should not be Alphanumeric]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Telephone Number Should not be Alphanumeric
+at org.testng.Assert.fail(Assert.java:111)
+at TestCases.TS001_Validate_Register_Functionality.TC007_Verify_ByProvidingAlphanumericTelephone(TS001_Validate_Register_Functionality.java:202)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC007_Verify_ByProvidingAlphanumericTelephone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:25 IST" name="teardown" finished-at="2025-05-31T19:56:26 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:26 IST" name="setup" finished-at="2025-05-31T19:56:30 IST" duration-ms="4644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC008_Verify_UnSubribingNewsLetter()[pri:8, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:30 IST" name="TC008_Verify_UnSubribingNewsLetter" finished-at="2025-05-31T19:56:35 IST" duration-ms="4958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008_Verify_UnSubribingNewsLetter -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:35 IST" name="teardown" finished-at="2025-05-31T19:56:36 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:36 IST" name="setup" finished-at="2025-05-31T19:56:40 IST" duration-ms="4260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC009_Verify_SubribingNewsLetter()[pri:9, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:40 IST" name="TC009_Verify_SubribingNewsLetter" finished-at="2025-05-31T19:56:44 IST" duration-ms="4559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC009_Verify_SubribingNewsLetter -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:44 IST" name="teardown" finished-at="2025-05-31T19:56:45 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:45 IST" name="setup" finished-at="2025-05-31T19:56:50 IST" duration-ms="5159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC010_Verify_ByUncheckingTerms()[pri:10, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:50 IST" name="TC010_Verify_ByUncheckingTerms" finished-at="2025-05-31T19:56:54 IST" duration-ms="3572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC010_Verify_ByUncheckingTerms -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:54 IST" name="teardown" finished-at="2025-05-31T19:56:54 IST" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:54 IST" name="setup" finished-at="2025-05-31T19:56:59 IST" duration-ms="4605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC011_Verify_ByProvidingDifferentPassInConfirmField()[pri:11, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:56:59 IST" name="TC011_Verify_ByProvidingDifferentPassInConfirmField" finished-at="2025-05-31T19:57:02 IST" duration-ms="3589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC011_Verify_ByProvidingDifferentPassInConfirmField -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TS001_Validate_Register_Functionality@730d2164]" started-at="2025-05-31T19:57:02 IST" name="teardown" finished-at="2025-05-31T19:57:03 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.TS001_Validate_Register_Functionality -->
+    </test> <!-- RegisterTest -->
+  </suite> <!-- Suite -->
+</testng-results>
